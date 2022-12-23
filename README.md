@@ -8,4 +8,4 @@ It was initially made for the PineTime.
 Here's a screenshot.
 <img src=https://github.com/pogchamp2/wasp-os-apps/raw/main/CookieApp.png alt=CookieApp.png/>
 <br/>
-You'll have to compile it.
+You'll have to compile it. There's not enough memory to parse the full file.
