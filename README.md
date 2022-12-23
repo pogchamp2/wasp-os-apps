@@ -7,4 +7,5 @@ This is a Cookie Clicker clone for [wasp-os](https://www.github.com/daniel-thomp
 It was initially made for the PineTime.
 Here's a screenshot.
 <img src=https://github.com/pogchamp2/wasp-os-apps/raw/main/CookieApp.png alt=CookieApp.png/>
+<br/>
 You'll have to compile it or use the `cookie.mpy` file, which was pre-compiled on [Linux Mint](https://linuxmint.com/).
