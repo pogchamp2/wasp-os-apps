@@ -9,8 +9,8 @@ here's a screenshot.
 <img src=https://github.com/pogchamp2/wasp-os-apps/raw/main/CookieApp.png alt=CookieApp.png/>
 <br/>
 You'll have to compile it. There's not enough memory to parse the full file.
-The number above `FF` is how many 'cookies' tapping adds.'
-The number above `AC` is how many cookies are added every second.
+The number below `FF` is how many 'cookies' tapping adds.
+The number below `AC` is how many cookies are added every second.
 The square of Cs are supposed to be the cookie.
 Tap the FF to upgrade it. (Cost:100)
 Tap the AC to upgrade *it*. (Cost:200)
